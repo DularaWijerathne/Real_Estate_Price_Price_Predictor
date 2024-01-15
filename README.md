@@ -1,1 +1,7 @@
-# Real_Estate_Price_Price_Predictor
+# Australian Vehicle Price Predictor
+
+Link for the dataset https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices
+
+Prices are in AUS $
+
+Appoximate price of cars in Australia
