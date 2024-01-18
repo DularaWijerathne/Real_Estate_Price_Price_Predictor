@@ -4,4 +4,4 @@ Link for the dataset https://www.kaggle.com/datasets/nelgiriyewithana/australian
 
 Prices are in AUS $
 
-Appoximate price of cars in Australia
+Appoximate price of cars in Australia.
