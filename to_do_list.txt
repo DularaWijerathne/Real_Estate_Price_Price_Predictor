@@ -1,3 +1,0 @@
-1) Export the model with .joblib
-2) create a new jupyter file for utilize the model. have to define a function for predictions
-3) design the web app using flask
