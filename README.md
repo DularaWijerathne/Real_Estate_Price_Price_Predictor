@@ -27,7 +27,6 @@ Link for the dataset https://www.kaggle.com/datasets/nelgiriyewithana/australian
 
 4. **Evaluation:**
    - Assessed the model's performance using metrics such as mean squared error, mean absolute error, and R-squared on the testing dataset.
-   - Employed cross-validation techniques to ensure the generalizability of the model.
 
 **Results:**
 The developed Random Forest regression model demonstrated high accuracy and reliability in predicting car prices based on the selected features. It proved effective in capturing non-linear relationships and handling the complexities of the Australian car market.
